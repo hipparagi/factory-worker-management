@@ -1,0 +1,27 @@
+=== USERS ===
+ID: 1, Username: admin, Role: admin, CreatedAt: datetime.datetime(2026, 5, 25, 6, 43, 47, 932503) (<class 'datetime.datetime'>)
+ID: 2, Username: rajesh, Role: worker, CreatedAt: datetime.datetime(2026, 5, 25, 6, 43, 47, 932503) (<class 'datetime.datetime'>)
+ID: 3, Username: amit, Role: worker, CreatedAt: datetime.datetime(2026, 5, 25, 6, 43, 48, 198934) (<class 'datetime.datetime'>)
+ID: 4, Username: priya, Role: worker, CreatedAt: datetime.datetime(2026, 5, 25, 6, 43, 48, 451056) (<class 'datetime.datetime'>)
+
+=== WORKERS ===
+ID: 1, Name: Rajesh Kumar, Phone: 9876543210, Joining: datetime.datetime(2025, 1, 15, 0, 0) (<class 'datetime.datetime'>)
+ID: 2, Name: Amit Sharma, Phone: 8765432109, Joining: datetime.datetime(2025, 2, 10, 0, 0) (<class 'datetime.datetime'>)
+ID: 3, Name: Priya Patel, Phone: 7654321098, Joining: datetime.datetime(2025, 3, 5, 0, 0) (<class 'datetime.datetime'>)
+
+=== SAREES ===
+ID: 1, Name: Banarasi Katan Silk, Category: Silk, Payout: 800.0
+ID: 2, Name: Surat Jacquard Georgette, Category: Georgette, Payout: 450.0
+ID: 3, Name: Kanchi Pattu Splendid, Category: Silk, Payout: 1200.0
+ID: 4, Name: Chanderi Cotton Classic, Category: Cotton, Payout: 300.0
+ID: 5, Name: Bandhani Premium Crepe, Category: Crepe, Payout: 600.0
+
+=== PRODUCTION ===
+
+=== BILLING ===
+
+=== ACTIVITY LOGS ===
+ID: 1, Action: LOGIN, Timestamp: datetime.datetime(2026, 5, 25, 6, 45, 7, 699460) (<class 'datetime.datetime'>)
+  User: <User 1> (Username: 'admin')
+
+=== END ===
